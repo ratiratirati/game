@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: auto;
+    height: 70px;
+    background-color: #563d7c;
+}
+
+
+.start_game{
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+.start_game input{
+    width: 40%;
+    height: 70px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 17px;
+    font-family: 'BPG Algeti';
+}
+
+
+.start_game button{
+    width: 40%;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 17px;
+    outline: none;
+    border: none;
+    background-color: orangered;
+    color: white;
+    font-family: 'BPG Algeti';
+
+}
+
+
+.msg{
+    font-size: 20px;
+    margin-top: 3%;
+    font-family: 'BPG Algeti';
+}
+
+.error{
+    font-size: 20px;
+    font-family: 'BPG Algeti';
+    color: red;
+}
